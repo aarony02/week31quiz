@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Aaron Yang Period 4</h1>
+<h2>My favorite part of Advance Web</h2>
+<p>My favorite part about Patino is that I can 
+come here everyday and learn somethig new.
+It is very cool to learn new things on how to 
+not be as nervous or how to pitch and what 
+the future would look like if you wanted to 
+start a business. Many people way not know, 
+but Patino can help you in a lot of ways with 
+life and how to work in the real world with other people.</p>
+<h2>My least favorite part of Advanced Web</h2>
+<p>My least favorite part of Patino is that 
+We don't have a lot of activities on campus. 
+Many people don't participate on things in 
+our school and especially sports.Also, we 
+should have gotten people that we wanted for our teams.
+<head>
+    <link> rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+</head>
+
+</body>
+</html>
